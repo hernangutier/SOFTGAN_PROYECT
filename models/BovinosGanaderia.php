@@ -36,7 +36,9 @@ class BovinosGanaderia extends \yii\db\ActiveRecord
         ];
     }
 
-    /**
+//------------ Hoal -----------	    
+
+	/**
      * @inheritdoc
      */
     public function attributeLabels()
